@@ -1,5 +1,18 @@
 # AI 编程与 Harness 工程研讨会公开专题站
 
+<!-- SIUSER-SEO-INTRO:START -->
+
+## 项目介绍 / Project Introduction
+
+**中文介绍**：AI 编程 Harness 会议资料，整理 Codex、Claude Code、Agent 工作流、验证机制与工程化落地思路。
+
+**English**: Meeting notes for AI programming harness workflows, covering Codex, Claude Code, agent workflows, verification, and engineering implementation.
+
+**SEO 关键词 / SEO Keywords**: AI programming, Codex, Claude Code, agent workflow, software testing, AI 编程
+
+<!-- SIUSER-SEO-INTRO:END -->
+
+
 这是一份基于 2026-05-19「自动化开发工具使用经验讨论」飞书智能纪要、文字记录、妙记 AI 产物和用户摘要整理的公开专题站。
 
 在线页面：
@@ -36,3 +49,17 @@ https://siuserxiaowei.github.io/ai-programming-harness-meeting-2026-05-19/
 node scripts/fetch-sources.mjs
 node scripts/build-site.mjs
 ```
+
+<!-- SIUSER-CONTACT:START -->
+
+## 联系我 / Contact
+
+想交流 AI 工具、内容自动化、SEO、私域增长或项目合作，可以扫码加我微信。
+
+For collaboration on AI tools, content automation, SEO, private-domain growth, or product experiments, scan the WeChat QR code below.
+
+<img src="https://raw.githubusercontent.com/siuserxiaowei/siuserxiaowei/main/assets/contact/wechat-qrcode.jpg" width="180" alt="WeChat QR code / 微信二维码" />
+
+**关键词 / Keywords**: AI programming, Codex, Claude Code, agent workflow, AI tools, AI automation, GitHub Pages, SEO
+
+<!-- SIUSER-CONTACT:END -->
